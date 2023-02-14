@@ -12,6 +12,12 @@ export default function App() {
         Open up App.js to start working on your app!
 
       </Text>
+      <Text>
+        Open up App.js to start working on your app!
+
+      </Text>
+      <button title="enviar"></button>
+      <StatusBar style="auto"/>
     </View>
   );
 }
